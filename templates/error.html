@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='error.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <div class ="container">
+  <div class ="message">
+    Data doesn't exist for this Query...<br>Try with new query<br>
+    <span class ="emoji">🤷</span>
+  </div>
+    <a id = "try-button" href="/prompt">Try Again</a>
+  </div>
+</body>
+</html>

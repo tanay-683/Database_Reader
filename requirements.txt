@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_experimental
+pymssql
+sentence_transformers
+flask
+pandas
+python-dotenv
+langchain-google-genai

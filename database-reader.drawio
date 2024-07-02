@@ -1,0 +1,389 @@
+<mxfile host="app.diagrams.net" modified="2024-06-26T08:43:38.112Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EjpCjMH4c5UnTnJGXvKZ" version="24.6.3" type="device">
+  <diagram name="Page-1" id="c-Xg50OzrNzBwNKC2uBz">
+    <mxGraphModel dx="3616" dy="3088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-18" value="" style="group;labelBorderColor=#FF00FF;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1410" y="240" width="290" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-2" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;" parent="1oQUVHv1hKujtNL0vfS8-18" vertex="1">
+          <mxGeometry width="290" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;API Key : *************************&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-18" vertex="1">
+          <mxGeometry x="12.5" y="250" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-4" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Model Name : text-bison-001&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-18" vertex="1">
+          <mxGeometry x="12.5" y="120" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-5" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Temperature : 0.1&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-18" vertex="1">
+          <mxGeometry x="12.5" y="190" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-6" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Google Generative Ai&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-18" vertex="1">
+          <mxGeometry y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-15" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;LLM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-18" vertex="1">
+          <mxGeometry x="200" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-19" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1410" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-19" vertex="1">
+          <mxGeometry width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-12" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Database URI&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-19" vertex="1">
+          <mxGeometry x="12.5" y="100" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-14" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;SQLDatabase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-19" vertex="1">
+          <mxGeometry y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-17" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;db&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-19" vertex="1">
+          <mxGeometry x="200" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-25" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1400" y="620" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-26" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-25" vertex="1">
+          <mxGeometry width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-27" value="&lt;font face=&quot;Red Hat Display&quot;&gt;User Input&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-25" vertex="1">
+          <mxGeometry x="12.5" y="100" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-28" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;User Input&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-25" vertex="1">
+          <mxGeometry y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-29" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-25" vertex="1">
+          <mxGeometry x="200" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-40" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-680" y="60" width="290" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-40" vertex="1">
+          <mxGeometry width="290" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-22" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Database Instance&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-40" vertex="1">
+          <mxGeometry x="12.5" y="100" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-23" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;SQLDatabaseChain.from_llm&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-40" vertex="1">
+          <mxGeometry y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-24" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Chain Instance&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-40" vertex="1">
+          <mxGeometry x="160" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-35" value="&lt;font face=&quot;Red Hat Display&quot;&gt;LLM Instance&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-40" vertex="1">
+          <mxGeometry x="12.5" y="160" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-36" value="&lt;font face=&quot;Red Hat Display&quot;&gt;return_sql : True &lt;font style=&quot;font-size: 7px;&quot;&gt;(return sql query)&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-40" vertex="1">
+          <mxGeometry x="12.5" y="220" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-37" value="&lt;font face=&quot;Red Hat Display&quot;&gt;User Input&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-40" vertex="1">
+          <mxGeometry x="12.5" y="280" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1" source="1oQUVHv1hKujtNL0vfS8-15" target="1oQUVHv1hKujtNL0vfS8-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-970" y="555" />
+              <mxPoint x="-970" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1" source="1oQUVHv1hKujtNL0vfS8-29" target="1oQUVHv1hKujtNL0vfS8-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-710" y="795" />
+              <mxPoint x="-710" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1" source="1oQUVHv1hKujtNL0vfS8-17" target="1oQUVHv1hKujtNL0vfS8-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-860" y="175" />
+              <mxPoint x="-860" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1oQUVHv1hKujtNL0vfS8-24" target="1oQUVHv1hKujtNL0vfS8-102" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-290" y="405" />
+              <mxPoint x="-290" y="-15" />
+              <mxPoint x="-680" y="-15" />
+              <mxPoint x="-680" y="-610" />
+            </Array>
+            <mxPoint x="-430" y="525" as="sourcePoint" />
+            <mxPoint x="-405" y="-500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-82" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-170" y="-700" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-42" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-82" vertex="1">
+          <mxGeometry width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-43" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Function Name : date_columns_to_parse&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-82" vertex="1">
+          <mxGeometry x="12.5" y="100" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-44" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Custom Python Function&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-82" vertex="1">
+          <mxGeometry y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-78" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Returns : list of column names&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-82" vertex="1">
+          <mxGeometry x="12.5" y="180" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-79" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Input : dataframe&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-82" vertex="1">
+          <mxGeometry x="12.5" y="140" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-83" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="210" y="-700" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-84" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-83" vertex="1">
+          <mxGeometry width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-85" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Function Name : data_preprocessing&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-83" vertex="1">
+          <mxGeometry x="12.5" y="100" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-86" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Custom Python Function&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-83" vertex="1">
+          <mxGeometry y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-87" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Returns : dataframe&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-83" vertex="1">
+          <mxGeometry x="12.5" y="180" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-88" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Input : dataframe&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-83" vertex="1">
+          <mxGeometry x="12.5" y="140" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-89" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="590" y="-700" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-90" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-89" vertex="1">
+          <mxGeometry width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-91" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Red Hat Display&amp;quot;; background-color: initial;&quot;&gt;Function Name :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(26, 26, 26); background-color: initial;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;remove_unnecessary_columns&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-89" vertex="1">
+          <mxGeometry x="12.5" y="100" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-92" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Custom Python Function&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1oQUVHv1hKujtNL0vfS8-89" vertex="1">
+          <mxGeometry y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-93" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Returns : list of column names&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-89" vertex="1">
+          <mxGeometry x="12.5" y="180" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-94" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Input : dataframe&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1oQUVHv1hKujtNL0vfS8-89" vertex="1">
+          <mxGeometry x="12.5" y="140" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1" source="1oQUVHv1hKujtNL0vfS8-90" target="1oQUVHv1hKujtNL0vfS8-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1" source="1oQUVHv1hKujtNL0vfS8-84" target="1oQUVHv1hKujtNL0vfS8-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1" source="1oQUVHv1hKujtNL0vfS8-42" target="1oQUVHv1hKujtNL0vfS8-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;flowAnimation=0;" parent="1" source="1oQUVHv1hKujtNL0vfS8-98" target="1oQUVHv1hKujtNL0vfS8-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="VcXPFZYKHhzdtkcgl8rL-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-950" y="-630" as="sourcePoint" />
+            <mxPoint x="-527.5" y="-660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-780" y="-650" />
+              <mxPoint x="-780" y="-670" />
+              <mxPoint x="-528" y="-670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="1oQUVHv1hKujtNL0vfS8-93" target="1oQUVHv1hKujtNL0vfS8-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="551" y="-510" />
+              <mxPoint x="551" y="-370" />
+              <mxPoint x="355" y="-370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="1oQUVHv1hKujtNL0vfS8-78" target="1oQUVHv1hKujtNL0vfS8-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="159" y="-510" />
+              <mxPoint x="159" y="-370" />
+              <mxPoint x="300" y="-370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-28" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="230" y="-280" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-29" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="VcXPFZYKHhzdtkcgl8rL-28" vertex="1">
+          <mxGeometry width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-30" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Function Name : generate_data_chunks&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="VcXPFZYKHhzdtkcgl8rL-28" vertex="1">
+          <mxGeometry x="12.5" y="100" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-31" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Custom Python Function&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;(Generator)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VcXPFZYKHhzdtkcgl8rL-28" vertex="1">
+          <mxGeometry y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-32" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Yields : json_data&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="VcXPFZYKHhzdtkcgl8rL-28" vertex="1">
+          <mxGeometry x="12.5" y="180" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-33" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Input : dataframe&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="VcXPFZYKHhzdtkcgl8rL-28" vertex="1">
+          <mxGeometry x="12.5" y="140" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-36" value="&lt;h1&gt;&lt;font face=&quot;Nunito Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito+Sans&quot; style=&quot;font-size: 50px;&quot;&gt;DATABASE READER&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="-1550" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-98" value="" style="whiteSpace=wrap;html=1;rounded=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="-840" width="290" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-99" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Function Name : query_to_df&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="-527.5" y="-740" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-100" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Custom Python Function&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="-800" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-101" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Returns : dataframe&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="-527.5" y="-490" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-102" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Input : Chain Instance&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="-527.5" y="-620" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-103" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Input : Database Instance&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="-527.5" y="-680" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-104" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Input : chunksize&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="-527.5" y="-560" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="1oQUVHv1hKujtNL0vfS8-101" target="VcXPFZYKHhzdtkcgl8rL-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-395" y="-150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="1oQUVHv1hKujtNL0vfS8-87" target="VcXPFZYKHhzdtkcgl8rL-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="-320" />
+              <mxPoint x="580" y="-320" />
+              <mxPoint x="580" y="-130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-57" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="2020" y="290" width="450" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VcXPFZYKHhzdtkcgl8rL-59" target="1oQUVHv1hKujtNL0vfS8-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1142" y="760" />
+              <mxPoint x="-1189" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-59" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="990" y="250" width="304" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-2" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Client Side&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="2135" y="660" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="330" width="700" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-4" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Post Request&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="300" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="430" width="690" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-7" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Json response&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="500" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-9" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Json response&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-11" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Post Request (User Prompt)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="930" width="685" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VcXPFZYKHhzdtkcgl8rL-29" target="VcXPFZYKHhzdtkcgl8rL-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="380" as="sourcePoint" />
+            <mxPoint x="1390" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-10" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1255" y="-1190" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-2" value="" style="whiteSpace=wrap;html=1;rounded=1;container=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" parent="VcXPFZYKHhzdtkcgl8rL-10" vertex="1">
+          <mxGeometry width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-3" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Custom Python Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="VcXPFZYKHhzdtkcgl8rL-10" vertex="1">
+          <mxGeometry y="20" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-4" value="Python Functions" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#D0CEE2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;fillColor=#5D7F99;container=0;" parent="VcXPFZYKHhzdtkcgl8rL-10" vertex="1">
+          <mxGeometry x="35" y="130" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-9" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Module Name&amp;nbsp; : sql_connection&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;container=0;" parent="VcXPFZYKHhzdtkcgl8rL-10" vertex="1">
+          <mxGeometry x="10" y="80" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-8" value="return database" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;container=0;" parent="VcXPFZYKHhzdtkcgl8rL-10" vertex="1">
+          <mxGeometry x="35" y="160" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-12" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1270" y="-840" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="VcXPFZYKHhzdtkcgl8rL-12" vertex="1">
+          <mxGeometry width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-14" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Function Name : return_database&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="VcXPFZYKHhzdtkcgl8rL-12" vertex="1">
+          <mxGeometry x="12.5" y="100" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-15" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Custom Python Function&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VcXPFZYKHhzdtkcgl8rL-12" vertex="1">
+          <mxGeometry y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-16" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Returns : database instance&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="VcXPFZYKHhzdtkcgl8rL-12" vertex="1">
+          <mxGeometry x="12.5" y="180" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-17" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Input : connection string&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="VcXPFZYKHhzdtkcgl8rL-12" vertex="1">
+          <mxGeometry x="12.5" y="140" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcXPFZYKHhzdtkcgl8rL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="VcXPFZYKHhzdtkcgl8rL-8" target="VcXPFZYKHhzdtkcgl8rL-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1165" y="-920" />
+              <mxPoint x="-1125" y="-920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jQfWR0MtzHjsiFNuAuDZ-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1180" y="-1390" width="260" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-48" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" parent="jQfWR0MtzHjsiFNuAuDZ-50" vertex="1">
+          <mxGeometry width="260" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-50" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Red+Hat+Display&quot; face=&quot;Red Hat Display&quot;&gt;Custom Python Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jQfWR0MtzHjsiFNuAuDZ-50" vertex="1">
+          <mxGeometry y="20" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-52" value="Python Functions" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#D0CEE2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;fillColor=#5D7F99;" parent="jQfWR0MtzHjsiFNuAuDZ-50" vertex="1">
+          <mxGeometry x="35" y="130" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-62" value="query_to_df" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1oQUVHv1hKujtNL0vfS8-52" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-55" value="date_columns_to_parse" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1oQUVHv1hKujtNL0vfS8-52" vertex="1">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-54" value="data_preprocessing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1oQUVHv1hKujtNL0vfS8-52" vertex="1">
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-53" value="remove_unnecessary_columns" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1A1A1A;" parent="1oQUVHv1hKujtNL0vfS8-52" vertex="1">
+          <mxGeometry y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1oQUVHv1hKujtNL0vfS8-95" value="&lt;font face=&quot;Red Hat Display&quot;&gt;Module Name&amp;nbsp; : fetching_data_query&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="jQfWR0MtzHjsiFNuAuDZ-50" vertex="1">
+          <mxGeometry x="10" y="80" width="240" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
