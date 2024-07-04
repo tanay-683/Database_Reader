@@ -2,7 +2,7 @@ import re
 import pandas as pd
 
 
-def remove_unnecessary_columns(dataframe):
+def remove_unnecessary_columns(dataframe) -> list:
     col_to_remove = []
     for col in dataframe.columns:
         if re.search(pattern="Is|Id", string=col):
@@ -12,15 +12,15 @@ def remove_unnecessary_columns(dataframe):
     return col_to_remove
 
 
-def date_columns_to_parse(dataframe):
-    columns_to_parse = []
+def date_columns_to_parse(dataframe) -> list:
+    columns_to_parse: list= []
     for column in dataframe.columns:
         if re.search(pattern=".*date.*", string=column, flags=re.IGNORECASE):
             columns_to_parse.append(column)
     return columns_to_parse
 
 
-def data_preprocessing(data):
+def data_preprocessing(data) -> pd.DataFrame:
     # starting table index from 1
     data.index = data.index + 1
 
@@ -29,7 +29,7 @@ def data_preprocessing(data):
     data.drop(extra_columns, axis=1, inplace=True)
 
     # removing columns which contain 85% none values
-    threshold = 0.85
+    threshold: int = 0.85
     data = data.loc[:, data.isnull().mean() <= threshold]
 
     # connverting int64 to int16
@@ -49,7 +49,7 @@ def data_preprocessing(data):
     return data
 
 
-def query_to_df(chain, connection, chunksize):
+def query_to_df(chain, connection, chunksize)-> pd.DataFrame:
     sql_query = chain["result"]
 
     # removing TOP and LIMIT keyword from query
