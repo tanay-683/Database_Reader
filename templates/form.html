@@ -25,7 +25,7 @@
 <body>
     <div class="container">
         <h1 class="mt-5">Query Your Database <img class="db-image" src="static\images\database.png" /></h1>
-        <form action="{{ url_for('get_prompt') }}" method="post" class="mt-3">
+        <form id="form" action="{{ url_for('get_prompt') }}" method="post" class="mt-3">
             <div class="form-group">
                 <input id="input_field" type="text" name="prompt" class="form-control" placeholder="Enter your prompt"
                     required>
@@ -37,10 +37,60 @@
         </form>
         <br>
         <br>
-        <div id="data-wrapper">
 
-        </div>
+        <div id="myDynamicTable"></div>
+        {{ data }}
     </div>
+    <script>
+        function addTable(data) {
+            let myTableDiv = document.getElementById("myDynamicTable");
+
+            let table = document.createElement('TABLE');
+            table.border = '1';
+
+            let tableHead = document.createElement('THEAD');
+            table.appendChild(tableHead);
+            let tableHeadRow  = document.createElement('TR');
+            tableHead.appendChild(tableHeadRow);
+            for(let column of data.columns){
+                const th = document.createElement("TH");
+                th.innerHTML = column;
+                tableHeadRow.appendChild(th);
+            }
+
+
+            let tableBody = document.createElement('TBODY');
+            table.appendChild(tableBody);
+
+            for (let row of data.data) {
+                let tr = document.createElement('TR');
+                tableBody.appendChild(tr);
+
+                for (let col of row) {
+                    let td = document.createElement('TD');
+                    td.innerHTML = col
+                    tr.appendChild(td);
+                }
+            }
+            myTableDiv.innerHTML = '';
+            myTableDiv.appendChild(table);
+        }
+
+        const form = document.getElementById("form");
+        form.addEventListener("submit", async (event)=>{
+            event.preventDefault();
+            const input = document.getElementById("input_field");
+            const formData = new FormData();
+            formData.append("prompt", input.value);
+            const response = await fetch("/prompt", {
+            method: "POST",
+            body: formData,
+            });
+            const data = await response.json();
+            console.log(data);
+            addTable(data);
+        })
+    </script>
 
 </body>
 

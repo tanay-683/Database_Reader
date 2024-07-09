@@ -176,13 +176,13 @@ tr:nth-child(even):hover {
 	color: #fff;
 }
 
-#data-wrapper {
+#myDynamicTable {
 	text-align: center;
 	overflow-y: auto;
 	height: 22rem;
 }
 
-#data-wrapper h1 {
+#myDynamicTable h1 {
 	font-size: 2.6rem;
 	color: #fff;
 	font-family: "Montserrat";

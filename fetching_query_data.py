@@ -20,7 +20,7 @@ def date_columns_to_parse(dataframe) -> list:
     return columns_to_parse
 
 
-def data_preprocessing(data) -> pd.DataFrame:
+def data_preprocessing(data):
     # starting table index from 1
     data.index = data.index + 1
 
@@ -29,7 +29,7 @@ def data_preprocessing(data) -> pd.DataFrame:
     data.drop(extra_columns, axis=1, inplace=True)
 
     # removing columns which contain 85% none values
-    threshold: int = 0.85
+    threshold: int = 0
     data = data.loc[:, data.isnull().mean() <= threshold]
 
     # connverting int64 to int16
